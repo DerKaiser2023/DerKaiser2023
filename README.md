@@ -16,7 +16,7 @@
 
 ## 🛠 Projects I’m Working On
 
-- ** XenoFactions Cursed Edition**
+- **XenoFactions Cursed Edition**
     in the fucking name
 
 - **Flan's Mod Jimmy Edition**
