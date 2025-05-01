@@ -16,10 +16,12 @@
 
 ## 🛠 Projects I’m Working On
 
-- **XenoFactions Cursed Edition**
+- **XenoFactions caged jimmy edition**
+  
     in the fucking name
 
 - **Flan's Mod Jimmy Edition**
+  
     modified version of flans mod labjac edition
   
 ## 📦 Tech & Tools
