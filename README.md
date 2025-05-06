@@ -18,11 +18,11 @@
 
 - **XenoFactions caged jimmy edition**
   
-    in the fucking name
+    whatever i fucking decided
 
 - **Flan's Mod Jimmy Edition**
   
-    modified version of flans mod labjac edition
+    modified version of flans mod labjac edition to my liking
   
 ## 📦 Tech & Tools
 ```bash
