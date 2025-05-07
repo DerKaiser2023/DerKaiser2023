@@ -29,3 +29,4 @@
 Languages: Java • TypeScript • HTML/CSS • Lua • C# • Python  
 Frameworks: Forge 1.7.10 • React • Node.js    
 Other: Minecraft Modding • Flan’s Mod • AI pathing
+System OSes: Linux, Windows
