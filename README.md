@@ -4,6 +4,7 @@
 - 🎮 Minecraft Modder | Gameplay Designer  
 - 🔧 Tinkerer of old tech  
 - 🎸 Learning guitar on the side
+- 💻 Semi-Active Youtuber
 
 ## 🤘 Fun & Facts
 - 👀 Interested in nuclear and space technology  
@@ -28,5 +29,5 @@
 ```bash
 Languages: Java • TypeScript • HTML/CSS • Lua • C# • Python  
 Frameworks: Forge 1.7.10 • React • Node.js    
-Other: Minecraft Modding • Flan’s Mod • AI pathing
+Other: Minecraft Modding • Flan’s Mod • AI pathing 
 System OSes: Linux, Windows
