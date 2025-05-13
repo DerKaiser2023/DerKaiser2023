@@ -12,7 +12,7 @@
 - 💞️ Not looking to collaborate — unless it's actually interesting  
 - 📫 How to reach me: I won’t respond unless I have to  
 - 😄 Pronouns: I have none — I'm not mentally insane  
-- ⚡ Fun fact: I'm in a relationship  
+- ⚡ Fun fact: I'm in a relationship  (ive been allocating more time with my girlfriend then programming :D)
 - 🧠 I understand German, Polish, Finnish, Russian, Ukrainian, some Romanian, and Swedish
 
 ## 🛠 Projects I’m Working On
