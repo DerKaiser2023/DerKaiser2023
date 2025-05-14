@@ -24,6 +24,10 @@
 - **Flan's Mod Jimmy Edition**
   
     modified version of flans mod labjac edition to my liking
+
+- **Realism Overhaul**
+
+    flaming dumpster fire of a mod that makes minecraft moo realistic
   
 ## 📦 Tech & Tools
 ```bash
