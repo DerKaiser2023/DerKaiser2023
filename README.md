@@ -29,6 +29,10 @@
 
     flaming dumpster fire of a mod that makes minecraft too realistic
   
+- **NTM: Space *fucked edition***
+
+  fork of jamesh hbm ntm fork of hbm ntm that completely fucks the game up with ReAlIsM (i think)
+  
 ## 📦 Tech & Tools
 ```bash
 Languages: Java • TypeScript • HTML/CSS • Lua • C# • Python  
