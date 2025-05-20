@@ -27,7 +27,7 @@
 
 - **Realism Overhaul**
 
-    flaming dumpster fire of a mod that makes minecraft moo realistic
+    flaming dumpster fire of a mod that makes minecraft too realistic
   
 ## 📦 Tech & Tools
 ```bash
