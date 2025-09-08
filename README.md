@@ -17,21 +17,8 @@
 
 ## 🛠 Projects I’m Working On
 
-- **XenoFactions caged jimmy edition**
-  
-    whatever i fucking decided
-
-- **Flan's Mod Jimmy Edition**
-  
-    modified version of flans mod labjac edition to my liking
-
-- **Realism Overhaul**
-
-    flaming dumpster fire of a mod that makes minecraft too realistic
-  
-- **NTM: Space *fucked edition***
-
-  fork of jamesh hbm ntm fork of hbm ntm that completely fucks the game up with ReAlIsM (i think)
+- **XenoFaction 1.12.2 port**
+  bc ive had enough
   
 ## 📦 Tech & Tools
 ```bash
