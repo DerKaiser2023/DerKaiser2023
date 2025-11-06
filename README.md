@@ -4,7 +4,7 @@
 - 🎮 Minecraft Modder | Gameplay Designer  
 - 🔧 Tinkerer of old tech  
 - 🎸 Learning guitar on the side
-- 💻 Semi-Active Youtuber
+- 💻 Retired Youtuber
 
 ## 🤘 Fun & Facts
 - 👀 Interested in nuclear and space technology  
