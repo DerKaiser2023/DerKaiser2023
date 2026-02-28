@@ -17,12 +17,11 @@
 
 ## 🛠 Projects I’m Working On
 
-- **XenoFaction 1.12.2 port**
-  bc ive had enough
+nothing
   
 ## 📦 Tech & Tools
 ```bash
 Languages: Java • TypeScript • HTML/CSS • Lua • C# • Python  
 Frameworks: Forge 1.7.10 • React • Node.js    
 Other: Minecraft Modding • Flan’s Mod • AI pathing 
-System OSes: Linux, Windows
+System OSes: Linux
