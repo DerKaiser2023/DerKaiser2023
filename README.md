@@ -7,17 +7,17 @@
 - 💻 Retired Youtuber
 
 ## 🤘 Fun & Facts
-- 👀 Interested in nuclear and space technology  
+- 👀 Interested in nuclear, military and space technology  
 - 🌱 Currently learning whatever the fuck I find interesting  
 - 💞️ Not looking to collaborate — unless it's actually interesting  
-- 📫 How to reach me: I won’t respond unless I have to  
+- 📫 How to reach me: contact me on discord  
 - 😄 Pronouns: I have none — I'm not mentally insane  
 - ⚡ Fun fact: I'm in a relationship  (ive been allocating more time with my girlfriend then programming :D)
 - 🧠 I understand German, Polish, Finnish, Russian, Ukrainian, some Romanian, and Swedish
 
 ## 🛠 Projects I’m Working On
 
-nothing
+flansmod deutschland edition - random ass shit
   
 ## 📦 Tech & Tools
 ```bash
