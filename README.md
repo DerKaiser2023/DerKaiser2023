@@ -17,7 +17,7 @@
 
 ## 🛠 Projects I’m Working On
 
-flansmod deutschland edition - random ass shit
+flansmod bullshit edition - rah
 
 xenofaction austrian painter edition - something something tech tree something province system
   
