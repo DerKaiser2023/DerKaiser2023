@@ -20,6 +20,12 @@
 flansmod bullshit edition - rah
 
 xenofaction austrian painter edition - something something tech tree something province system
+
+WallSteetTaPEdition - extremelly advanced wall street simulator for TaP PenUltimate REVIVED
+
+TaP PenUltimate REVIVED - 2019 modpack ive brought back bc mainline TaP is ass also added some new stuff
+
+Immersive Railroading Flans Edition - flatcars can dock flans vehicles
   
 ## 📦 Tech & Tools
 ```bash
