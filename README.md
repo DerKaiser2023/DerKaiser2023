@@ -26,6 +26,8 @@ WallSteetTaPEdition - extremelly advanced wall street simulator for TaP PenUltim
 TaP PenUltimate REVIVED - 2019 modpack ive brought back bc mainline TaP is ass also added some new stuff
 
 Immersive Railroading Flans Edition - flatcars can dock flans vehicles
+
+Rationcraft - us ww2 rations ported from ctb
   
 ## 📦 Tech & Tools
 ```bash
